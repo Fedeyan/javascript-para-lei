@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ejercicio1": "jest test/ejercicio1.test.js"
+    "ejercicio1": "jest src/test/ejercicio1.test.js"
   },
   "author": "",
   "license": "ISC",
