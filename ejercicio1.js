@@ -13,12 +13,16 @@
 
 */
 
-var string;
+var string = "algo";
 var number;
 var bool;
-
 
 //
 //
 //t
-module.exports = {};
+module.exports = {
+  //ejercicio 1;
+  string,
+  number,
+  bool,
+};
